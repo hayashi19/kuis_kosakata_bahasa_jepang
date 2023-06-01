@@ -52,8 +52,8 @@ android {
         applicationId "com.japanesequiz.user0412"
         minSdkVersion 23
         targetSdkVersion 33
-        versionCode 41
-        versionName "4.1"
+        versionCode 405
+        versionName "4.5"
     }
 
     signingConfigs {

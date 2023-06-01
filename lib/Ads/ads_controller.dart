@@ -4,14 +4,14 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 class AdsController extends GetxController {
   var adsCountDown = 0.obs;
   final BannerAd allBanner = BannerAd(
-    adUnitId: 'ca-app-pub-3089671223759195/6216826277',
+    adUnitId: 'ca-app-pub-3940256099942544/6300978111',
     size: AdSize.banner,
     request: const AdRequest(),
     listener: const BannerAdListener(),
   );
 
   final BannerAd dictionaryBanner = BannerAd(
-    adUnitId: 'ca-app-pub-3089671223759195/1317683383',
+    adUnitId: 'ca-app-pub-3940256099942544/6300978111',
     size: AdSize.banner,
     request: const AdRequest(),
     listener: const BannerAdListener(),
@@ -25,7 +25,7 @@ class AdsController extends GetxController {
       await interstitialAd.show();
     }
     InterstitialAd.load(
-      adUnitId: 'ca-app-pub-3089671223759195/2126844930',
+      adUnitId: 'ca-app-pub-3940256099942544/8691691433',
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (InterstitialAd ad) {

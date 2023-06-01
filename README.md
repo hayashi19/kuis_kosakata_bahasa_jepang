@@ -1,6 +1,6 @@
 # [Kuis Kosakata Bahasa Jepang Versi Bahasa Indonesia 🇮🇩-🇯🇵 (New 4.0)](https://play.google.com/store/apps/details?id=com.japanesequiz.user0412)
 
-![Logo](assets\logo.png "App Logo")
+![Logo](https://play-lh.googleusercontent.com/qtyUENi0_iNQJZ_MR40m4n1oDglRh6Li3diRyVoATPHkDIT8Hk6Q4sot06maHIZr4sU=w240-h480-rw)
 
 ### Dokumentasi ini dibuat dimulai dari versi 4.0 (untuk versi dibawahnya tidak ada).
 
